@@ -18,4 +18,4 @@ This application scrapes a webpage with a table containing Mars weather data and
 
 To run the app: 
 * Each notebook can be downloaded and ran independently.
-* Splinter and Chromedriver are required to run each notebook. 
+* Splinter and Chromedriver are required to run each notebook. Instructions for installing Splinter and Chromedriver can be found here: https://splinter.readthedocs.io/en/latest/install/install.html
